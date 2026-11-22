@@ -1,0 +1,9 @@
+{
+  "name": "chiikawa-shop",
+  "private": true,
+  "scripts": {
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "seed": "npm run seed --prefix server"
+  }
+}
